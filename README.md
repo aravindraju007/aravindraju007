@@ -93,6 +93,6 @@ graph TB
 
 ---
 
-<div align="center">
-  💼 **Open to collaborations** • 📧 **Let's connect!**
-</div>
+<p align="center">
+  <em>💼 Open to collaborations • 📧 Let's connect!</em>
+</p>
